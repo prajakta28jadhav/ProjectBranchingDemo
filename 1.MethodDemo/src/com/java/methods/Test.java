@@ -14,14 +14,13 @@ public class Test {
 		System.out.println("added line here");
 		
 		
-		System.out.println("=====Hello======================");
+		
 		NoReturnTypeWithNoParameter obj = new NoReturnTypeWithNoParameter();
 		obj.add();
 		obj.sub();
 		obj.mul();
 		obj.div();
-		System.out.println("t");
-		System.out.println("testtttttt");
+		
 		System.out.println("==============================================");
 		NoReturnTypeWithParameter obj1 = new NoReturnTypeWithParameter();
 		obj1.add(20, 40);
