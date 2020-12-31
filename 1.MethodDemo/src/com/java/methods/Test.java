@@ -6,12 +6,12 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		System.out.println("added line");
+		System.out.println("hiii");
 		
 		int add =  30 + 20 ;
 		System.out.println("add  "+add);
 		
-		System.out.println("added line here");
+		
 		
 		
 		
