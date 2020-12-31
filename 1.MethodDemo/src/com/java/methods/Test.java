@@ -21,7 +21,7 @@ public class Test {
 		obj.mul();
 		obj.div();
 		System.out.println("test 234");
-
+		System.out.println("testtttttt");
 		System.out.println("==============================================");
 		NoReturnTypeWithParameter obj1 = new NoReturnTypeWithParameter();
 		obj1.add(20, 40);
